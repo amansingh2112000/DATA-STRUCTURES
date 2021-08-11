@@ -39,4 +39,6 @@ int main(){
 	 cin>>x;
 	 
 	cout<<"Index at which element x is present:"<<BinarySearch(input,n,x)<<endl;
+	
+	return 0;
 }
